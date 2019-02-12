@@ -6,4 +6,5 @@ Learning Github at ResBaz 2019
 * List item 1
 * List item 2
 
-1. 
+1. list thing
+1. list thing 2
